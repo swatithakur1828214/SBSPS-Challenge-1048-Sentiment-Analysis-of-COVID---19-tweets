@@ -34,6 +34,7 @@ Covid-19, since its inception, has had a huge impact on people's life. Since dif
  *Libraries*
 
     •  nltk 
+    •  matplotlib
     •  regex
     •  numpy
     •  pandas
