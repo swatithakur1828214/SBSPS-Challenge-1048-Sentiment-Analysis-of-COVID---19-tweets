@@ -22,8 +22,8 @@ Covid19, since its inception, has had a huge impact on people's life. Since diff
 ## For datasets
 *Link :* https://drive.google.com/drive/folders/1X2oKStEt1sd6GUfxL9ne4kDPPFZxIuZR?usp=sharin 
 
-##Demo Video 
-*Link : *https://youtu.be/rPWJzjUlu6g
+Demo Video 
+Link : https://youtu.be/rPWJzjUlu6g
 ---
 
 
