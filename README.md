@@ -24,7 +24,7 @@ Covid19, since its inception, has had a huge impact on people's life. Since diff
  
  *Tools*
 
-    • Pyhton
+    • Python
     • Streamlit,
     • IBM watson Studio
     • Jupyter
