@@ -27,7 +27,7 @@ Covid-19, since its inception, has had a huge impact on people's life. Since dif
     • Python
     • Google Colab
     • Streamlit,
-    • IBM watson Studio
+    • IBM watson Studio( IBM Cognos Dashboard)
     • Jupyter
 
 
