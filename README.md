@@ -48,7 +48,7 @@ link : https://youtu.be/rPWJzjUlu6g
 
 ---
 
-## For Report
+## For Project Report
 link : https://drive.google.com/folderview?id=1X2oKStEt1sd6GUfxL9ne4kDPPFZxIuZR
 
 ---
