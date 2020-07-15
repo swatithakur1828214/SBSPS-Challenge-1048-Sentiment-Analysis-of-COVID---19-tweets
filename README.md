@@ -24,7 +24,7 @@ Covid19, since its inception, has had a huge impact on people's life. Since diff
  
  *Tools*
 
-    • Pyhton
+    • Python
     • Streamlit,
     • IBM watson Studio
     • Jupyter
@@ -35,7 +35,8 @@ Covid19, since its inception, has had a huge impact on people's life. Since diff
     •  nltk 
     •  regex
     •  numpy
-    •  pandas   
+    •  pandas
+    •  sklearn   
 
 ## For datasets
 Link : https://drive.google.com/drive/folders/1X2oKStEt1sd6GUfxL9ne4kDPPFZxIuZR?usp=sharin 
@@ -44,6 +45,11 @@ Link : https://drive.google.com/drive/folders/1X2oKStEt1sd6GUfxL9ne4kDPPFZxIuZR?
 
 ## Youtube
 link : https://youtu.be/rPWJzjUlu6g
+
+---
+
+## For Report
+link : https://drive.google.com/folderview?id=1X2oKStEt1sd6GUfxL9ne4kDPPFZxIuZR
 
 ---
 
